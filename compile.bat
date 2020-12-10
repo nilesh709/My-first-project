@@ -1,0 +1,1 @@
+pyinstaller -w -F -i"camera_photography_polaroid_photo_cam_icon_175518.ico" index.py
